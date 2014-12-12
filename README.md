@@ -1,1 +1,1 @@
-# Python  PEP 中文翻译
+# Python PEP 中文翻译
